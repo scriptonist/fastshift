@@ -107,3 +107,7 @@
     100% {
         width: 100%;
     }
+.img-rounded{
+    border-radius: 25px;
+
+}
